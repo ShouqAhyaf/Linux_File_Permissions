@@ -1,6 +1,6 @@
 # Linux_File_Permissions
 
-Here in this project, I added a folder/directory (robot) and then added a Python file (arm) inside it, I applied the command chmod (changing mode) to change the permissions to (-rwxrwxr-x).
+Here in this project, I added a folder/directory (robot) and then added a Python file (arm) inside it, I applied the command chmod (changing mode) to change the permissions to (-rwxrwxr-x). 
 __________________________________________________________________
 Why do we use File permissions in Linux?
 
