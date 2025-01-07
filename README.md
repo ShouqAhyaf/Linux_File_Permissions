@@ -29,3 +29,4 @@ Examples of permissions:
 - Mean: We have a file that only the owner can fully control, and others have no access.
 - Numeric Score: 700
 __________________________________________________________________
+Here in this project, I added a folder/directory (robot) and then added a Python file (arm) inside it, I applied the command chmod (changing mode) to change the permissions to (-rwxrwxr-x).
