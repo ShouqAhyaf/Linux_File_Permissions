@@ -1,5 +1,7 @@
 # Linux_File_Permissions
 
+Here in this project, I added a folder/directory (robot) and then added a Python file (arm) inside it, I applied the command chmod (changing mode) to change the permissions to (-rwxrwxr-x).
+__________________________________________________________________
 Why do we use File permissions in Linux?
 
 File permissions control who can read, write and execute a file(-) or directory(d), there are three categories for permissions:
@@ -28,5 +30,3 @@ Examples of permissions:
 2. Permission2: -rwx------
 - Mean: We have a file that only the owner can fully control, and others have no access.
 - Numeric Score: 700
-__________________________________________________________________
-Here in this project, I added a folder/directory (robot) and then added a Python file (arm) inside it, I applied the command chmod (changing mode) to change the permissions to (-rwxrwxr-x).
